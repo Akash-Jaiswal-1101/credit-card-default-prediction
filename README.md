@@ -1,6 +1,3 @@
-To prepare a README file for your credit card default prediction project based on your notebook, you can use the structure below. This is optimized for a professional GitHub repository.
-
----
 
 # Credit Card Default Predictive Framework
 
